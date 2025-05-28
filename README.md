@@ -41,3 +41,7 @@ Esta API permite gestionar usuarios en una base de datos en memoria (HashMap). I
 ```
 
 La API estará disponible en `http://localhost:8080/api/users`
+
+---
+
+_Línea añadida automáticamente para la demo._
